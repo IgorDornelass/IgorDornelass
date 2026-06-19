@@ -6,7 +6,7 @@ Estudante de desenvolvimento Backend focado em Python.
 
 ✅ Flask  
 🔄 Django REST APIs  
-⏳ n8n  
+⏳ N8N  
 ⏳ Microserviços RESTful  
 ⏳ Docker  
 ⏳ TDD
