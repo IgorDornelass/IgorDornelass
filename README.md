@@ -22,11 +22,11 @@ Estudante de desenvolvimento Backend focado em Python.
 
 ## Projetos
 
-### Flask Tarefas
-CRUD completo desenvolvido com Flask.
+### Sistema de Gerenciamento de Tarefas (Flask)
+Aplicação web desenvolvida com Flask para cadastro, edição, exclusão e visualização de tarefas. Projeto criado para praticar rotas, templates, formulários e operações CRUD.
 
-### API Django
-API REST para gerenciamento de tarefas utilizando Django.
+### API de Tarefas (Django)
+API REST para gerenciamento de tarefas com operações de criação, consulta, atualização e exclusão de registros.
 
 ## Objetivo
 
