@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Igor Dornelas 👋
 
-<!--
-**IgorDornelass/IgorDornelass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de desenvolvimento Backend focado em Python.
 
-Here are some ideas to get you started:
+## Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Flask  
+🔄 Django REST APIs  
+⏳ n8n  
+⏳ Microserviços RESTful  
+⏳ Docker  
+⏳ TDD
+
+## Tecnologias
+
+- Python
+- Flask
+- Django
+- SQLite
+- Git
+- GitHub
+
+## Projetos
+
+### Flask Tarefas
+CRUD completo desenvolvido com Flask.
+
+### API Django
+API REST para gerenciamento de tarefas utilizando Django.
+
+## Objetivo
+
+Construir uma base sólida em desenvolvimento backend e arquitetura de aplicações utilizando Python.
